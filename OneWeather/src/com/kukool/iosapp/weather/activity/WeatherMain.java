@@ -641,7 +641,9 @@ public class WeatherMain extends Activity implements OnClickListener {
                 needForceRefresh = true;
             }
 
-            goToCity(position);
+            if (position >= 0) {
+                goToCity(position);
+            }
 //            needForceRefresh = false;
 
         }

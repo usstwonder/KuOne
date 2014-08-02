@@ -384,7 +384,9 @@ public class WeatherSettings extends Rotate3dAnimationActivity
         clearSettingListDeletMode();
         HeaderViewListAdapter adpt = (HeaderViewListAdapter)mListView.getAdapter();
         ((WeatherSettingsListAdapter)adpt.getWrappedAdapter()).notifyDataSetChanged();
-	}
+        saveMtric();
+        setReturnResult(-1);
+    }
 
 
     private void goYahooSearhWebsit(){
@@ -461,11 +463,14 @@ public class WeatherSettings extends Rotate3dAnimationActivity
 		}
 	}
 
-    public void backtoWeatherofCity(int idxOfCity){
-        saveMtric();
+    private void setReturnResult(int idxOfCity) {
         Intent data=new Intent();
         data.putExtra("position", idxOfCity);
         setResult(RESULT_OK, data);
+    }
+
+    public void backtoWeatherofCity(int idxOfCity) {
+        setReturnResult(idxOfCity);
         finish();
     }
 
