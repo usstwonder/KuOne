@@ -202,8 +202,10 @@ public class DisplayWeatherView extends WeatherView implements
         int i;
         int todayTempArray[] = new int[HOURS_IN_DAY];
 
-        String localTime = (String) mContentValues.get(Weather_Column.LOCAL_TIME);
-        int hourIdx = Utils.getHour(localTime);
+        //String localTime = (String) mContentValues.get(Weather_Column.LOCAL_TIME);
+        Date curDate = new Date(System.currentTimeMillis());
+        //int hourIdx = Utils.getHour(localTime);
+        int hourIdx = curDate.getHours();
 
         if(min_v > max_v){
             int tmp;
