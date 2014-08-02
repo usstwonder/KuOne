@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"Wetter"</string>
+    <string name="app_name">"Wetter"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"Maximale Temperatur: "</string>
+    <string name="txt_low_tmp">"Minimale Temperatur: "</string>
+    <string name="degree_label">°</string> 
+    <string name="refresh_at">"Aktualisiert "</string> 
+    <string name="fail_refresh_str">"Zuletzt aktualisiert"</string> 
+     <string name="refreshing_str">"Aktualisieren... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"Stadt(u,Land) oder PLZ eingeben"</string>
+    <string name="verify_city">"Stadt überprüfen..."</string>
+    <string name="no_results_found">"Keine Treffer gefunden"</string>
+    <string name="network_error">"Netzwerk nicht verfügbar"</string>
+    <string name="btn_cancel">"Abbrechen"</string>
+    <!-- web action -->
+    <string name="updating_data">"Stadt überprüfen..."</string>
+    <string name="success_load_data">"Laden Sie Daten erfolgreich..."</string>
+    
+    <string name="str_done">"Fertig"</string>
+   
+    <string name="str_max_add_cities">"Sie können bis zu 25 Städten"</string>
+    <string name="msg_ok">"zustimmen"</string>
+    <string name="add_city_suggestion">&quot;&quot;</string>
+    <string name="dangditianqi">Lokales Wetter</string>
+    <string name="local_">Peking</string>
+     <string name="shanghai">Shanghai</string>
+    <string name="highest">Maximale</string>
+    <string name="lowest">Minimale</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">Stunde</string>
+    <string name="Title_bar">"stündlich"</string>
+      <string name="delete">"löschen"</string>
+   
+    <string name="today">Heute</string>
+    <string name="humidity">Luftfeuchtigkeit</string>
+    <string name="wind">Wind</string>
+    <string name="chanceofsnow">Vereinzelt Schnee</string>
+    <string name="chanceofrain">Vereinzelt regen</string>
+    <string name="feelslike">fühlt</string>
+    <string name="visibility">Sichtbarkeit</string>
+
+</resources>

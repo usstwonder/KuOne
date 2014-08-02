@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_about_version_layout_marginbottom">50.0dip</dimen>
+</resources>

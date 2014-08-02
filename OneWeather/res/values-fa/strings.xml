@@ -1,0 +1,48 @@
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"هوا"</string>
+    <string name="app_name">"هوا"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"بالاترین درجه حرارت: "</string>
+    <string name="txt_low_tmp">"حداقل درجه حرارت: "</string>
+    <string name="degree_label">"°"</string> 
+    <string name="refresh_at">"به روز شده "</string> 
+    <string name="fail_refresh_str">"بروز شکست خورد، آخرین به روز رسانی"</string> 
+     <string name="refreshing_str">"در حال به روز رسانی ... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"شهر، استان یا کد پستی را تایپ کنید:"</string>
+    <string name="verify_city">"در شهرستان اعتبار سنجی ..."</string>
+    <string name="no_results_found">"نتیجه ای یافت نشد"</string>
+    <string name="network_error">"شبکه در دسترس نیست"</string>
+    <string name="btn_cancel">"لغو کردن"</string>
+    <!-- web action -->
+    <string name="updating_data">"در حال به روز رسانی ..."</string>
+    <string name="success_load_data">"دانلود داده ها با موفقیت ..."</string>
+    
+    <string name="str_done">"انجام شده"</string>
+   
+    <string name="str_max_add_cities">"شما می توانید به 25 شهر اضافه کردن."</string>
+    <string name="msg_ok">"خوب"</string>
+    <string name="add_city_suggestion">""</string>
+    <string name="dangditianqi">"آب و هوای محلی"</string>
+    <string name="local_">"پکن"</string>
+    <string name="shanghai">"شانگهای"</string>
+    <string name="highest">"بالاترین"</string>
+    <string name="lowest">"پایین ترین"</string>
+    <string name="h_temp">"39 °"</string>
+    <string name="l_temp">"30 درجه"</string>
+    <string name="current_">"36 درجه"</string>
+    <string name="du">"°"</string>
+    <string name="hour">"ساعت"</string>
+     <string name="Title_bar">"پیش بینی ساعات روز:"</string>
+     <string name="delete">"حذف کردن"</string>
+  
+    <string name="today">امروز</string>
+    <string name="humidity">دید</string>
+    <string name="wind">باد</string>
+    <string name="chanceofsnow">احتمال بارش برف</string>
+    <string name="chanceofrain">احتمال باران</string>
+    <string name="feelslike">احساسی شبیه</string>
+    <string name="visibility">دید</string>
+
+</resources>

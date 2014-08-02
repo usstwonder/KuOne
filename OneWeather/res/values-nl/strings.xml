@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"Weer"</string>
+    <string name="app_name">"Weer"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"De hoogste temperatuur: "</string>
+    <string name="txt_low_tmp">"Low: "</string>
+    <string name="degree_label">"°"</string> 
+    <string name="refresh_at">"Bijgewerkt "</string> 
+    <string name="fail_refresh_str">"Update mislukt, laatst"</string> 
+     <string name="refreshing_str">"Updaten ... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"Vul een plaatsnaam, provincie naam of postcode:"</string>
+    <string name="verify_city">"Het verifiëren van de stad ..."</string>
+    <string name="no_results_found">"Geen resultaten gevonden"</string>
+    <string name="network_error">"Netwerk niet beschikbaar"</string>
+    <string name="btn_cancel">"Annuleren"</string>
+    <!-- web action -->
+    <string name="updating_data">"Updaten ..."</string>
+    <string name="success_load_data">"Succesvol gedownload data ..."</string>
+    
+    <string name="str_done">"Compleet"</string>
+   
+    <string name="str_max_add_cities">"U kunt maximaal 25 steden."</string>
+    <string name="msg_ok">"Goed"</string>
+    <string name="add_city_suggestion">""</string>
+    <string name="dangditianqi">"Lokaal weer"</string>
+    <string name="local_">"Beijing"</string>
+     <string name="shanghai">"Sjanghai"</string>
+    <string name="highest">"Hoogst"</string>
+    <string name="lowest">"Laagste"</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">"Tijd"</string>
+    <string name="Title_bar">"Weersverwachting per uur"</string>
+     <string name="delete">"Verwijderen"</string>
+   
+    <string name="today">Vandaag</string>
+    <string name="humidity">Vochtigheid</string>
+    <string name="wind">Wind</string>
+    <string name="chanceofsnow">Kans op sneeuw</string>
+    <string name="chanceofrain">Kans op regen</string>
+    <string name="feelslike">Voelen</string>
+    <string name="visibility">Zichtbaarheid</string>
+
+</resources>

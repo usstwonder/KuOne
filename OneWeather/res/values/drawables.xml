@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="settings_divider">#ffc8c8c8</item>
+    <item type="drawable" name="settings_item_bg_normal">#ffffffff</item>
+    <item type="drawable" name="settings_item_bg_pressed">#ffd9d9d9</item>
+    <item type="drawable" name="settings_nav_bar_bg">#fff7f7f7</item>
+    <item type="drawable" name="settings_bg">#ffe5e5e5</item>
+    <item type="drawable" name="navil_btn_bg_normal">#00000000</item>
+    <item type="drawable" name="navil_btn_bg_press">#ffdfdfdf</item>
+</resources>

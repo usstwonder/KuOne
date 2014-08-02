@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"Hava Durumu"</string>
+    <string name="app_name">"Hava Durumu"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"Yüksek: "</string>
+    <string name="txt_low_tmp">"Düşük: "</string>
+    <string name="degree_label">"°"</string> 
+    <string name="refresh_at">"Güncelleme "</string> 
+    <string name="fail_refresh_str">"Güncelleme son güncelleme"</string> 
+     <string name="refreshing_str">"Güncelleniyor ... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"Şehri,Eyaleti veya Posta Kodunu girin"</string>
+    <string name="verify_city">"Şehir doğrulanıyor ..."</string>
+    <string name="no_results_found">"Hiçbir sonuç bulunamadı"</string>
+    <string name="network_error">"Ağ kullanılamıyor"</string>
+    <string name="btn_cancel">"Vazgeç"</string>
+    <!-- web action -->
+    <string name="updating_data">"Güncelleniyor ..."</string>
+    <string name="success_load_data">"Başarıyla indirilen veri ..."</string>
+    
+    <string name="str_done">"Bitti"</string>
+   
+    <string name="str_max_add_cities">"Sen 25 kadar şehri ekleyebilirsiniz."</string>
+    <string name="msg_ok">"Iyi"</string>
+    <string name="add_city_suggestion">""</string>
+    <string name="dangditianqi">"Yerel hava durumu"</string>
+    <string name="local_">"Pekin"</string>
+     <string name="shanghai">"Şangay"</string>
+    <string name="highest">"En yüksek"</string>
+    <string name="lowest">"En düşük"</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">saat</string>
+    <string name="Title_bar">"her saat"</string>
+    <string name="delete">"Sil"</string>
+   
+    <string name="today">Bugün</string>
+    <string name="humidity">nem</string>
+    <string name="wind">rüzgâr</string>
+    <string name="chanceofsnow">Kar Olasılığı</string>
+    <string name="chanceofrain">Yağmur Olasılığı</string>
+    <string name="feelslike">Hissedilen</string>
+    <string name="visibility">görünürlük</string>
+
+</resources>

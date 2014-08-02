@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:iphone="http://schemas.android.com/apk/res/com.kukool.iosapp.weather"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/display_weather"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:clickable="true" />
+    <!--
+         当第一次进入，没有城市列表，
+         做动画时需要的一个的布局
+    -->
+    <!-- 天气设置 -->
+ <!--
+    <FrameLayout
+        android:id="@+id/weather_settings"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/weather_settings_bg"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/yahoo_search_relativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:clickable="true"
+                    android:src="@drawable/yahoo_search_label" />
+            </RelativeLayout>
+
+            <com.kukool.iosapp.weather.ui.MetricCheckButton
+                android:id="@+id/metric_check_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/yahoo_search_relativeLayout"
+                android:layout_centerInParent="true"
+                iphone:backgroundOnLeft="@drawable/metric_check_btn_left_on"
+                iphone:backgroundOnRight="@drawable/metric_check_btn_right_on" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/header_bg" >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/button_add" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/hello"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/button_done"
+                android:text="@string/str_done"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" >
+            </Button>
+        </RelativeLayout>
+    </FrameLayout>
+     -->
+</FrameLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"Tiempo"</string>
+    <string name="app_name">"Tiempo"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"La temperatura más alta: "</string>
+    <string name="txt_low_tmp">"Baja: "</string>
+    <string name="degree_label">"°"</string> 
+    <string name="refresh_at">"Actualizado "</string> 
+    <string name="fail_refresh_str">"Actualización falla, última"</string> 
+     <string name="refreshing_str">"Actualizando ... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"Por favor, introduzca un nombre de ciudad, nombre de la provincia o código postal:"</string>
+    <string name="verify_city">"La comprobación de la ciudad ..."</string>
+    <string name="no_results_found">"No hay resultados"</string>
+    <string name="network_error">"Red no está disponible"</string>
+    <string name="btn_cancel">"Cancelar"</string>
+    <!-- web action -->
+    <string name="updating_data">"Actualizando ..."</string>
+    <string name="success_load_data">"Los datos se descargó correctamente ..."</string>
+    
+    <string name="str_done">"Completar"</string>
+   
+    <string name="str_max_add_cities">"Puede añadir hasta 25 ciudades."</string>
+    <string name="msg_ok">"Bueno"</string>
+    <string name="add_city_suggestion">""</string>
+    <string name="dangditianqi">"El tiempo"</string>
+    <string name="local_">"Beijing"</string>
+     <string name="shanghai">"Shanghai"</string>
+    <string name="highest">"Mayor"</string>
+    <string name="lowest">"Menor"</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">"Tiempo"</string>
+    <string name="Title_bar">"Hora Pronóstico del Tiempo"</string>
+     <string name="delete">"Borrar"</string>
+   
+    <string name="today">hoy</string>
+    <string name="humidity">Humedad</string>
+    <string name="wind">Viento</string>
+    <string name="chanceofsnow">Posibilidad de nieve</string>
+    <string name="chanceofrain">Posibilidad de lluvia</string>
+    <string name="feelslike">Siente como</string>
+    <string name="visibility">Visibilidad</string>
+
+</resources>

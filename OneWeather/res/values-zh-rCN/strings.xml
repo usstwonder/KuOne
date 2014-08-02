@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+ 
+    <string name="hello">"天气"</string>
+    <string name="app_name">"酷一天"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"最高温: "</string>
+    <string name="txt_low_tmp">"最低温: "</string>
+    <string name="degree_label">°</string> 
+    <string name="refresh_at">"更新于 "</string> 
+    <string name="fail_refresh_str">"更新失败,上次更新"</string> 
+     <string name="refreshing_str">"正在更新... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"请输入城市名、省名或邮政编码："</string>
+    <string name="verify_city">"正在验证城市..."</string>
+    <string name="no_results_found">"未找到结果"</string>
+    <string name="network_error">"网络不可用"</string>
+    <string name="btn_cancel">"取消"</string>
+    <!-- web action -->
+    <string name="updating_data">"正在更新..."</string>
+    <string name="success_load_data">"成功下载数据..."</string>
+    
+    <string name="str_done">"完成"</string>
+   
+    <string name="str_max_add_cities">"最多能添加25个城市。"</string>
+    <string name="msg_ok">"好"</string>
+    <string name="add_city_suggestion">&quot;&quot;</string>
+    <string name="dangditianqi">当地天气</string>
+    <string name="local_">北京</string>
+     <string name="shanghai">上海</string>
+    <string name="highest">最高</string>
+    <string name="lowest">最低</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">"时"</string>
+    <string name="Title_bar">""每小时天气预报"</string>
+     <string name="delete">"删除"</string>
+
+    <string name="today">今天</string>
+    <string name="humidity">湿度</string>
+    <string name="wind">风向</string>
+    <string name="chanceofsnow">降雪概率</string>
+    <string name="chanceofrain">降雨概率</string>
+    <string name="feelslike">体感温度</string>
+    <string name="visibility">能见度</string>
+    <string name="now">现在</string>
+
+    <string name="str_about">关于</string>
+    <string name="str_about_outweb">我们的网站</string>
+    <string name="str_about_checkupdate">检查更新</string>
+    <string name="str_about_feedback">用户反馈</string>
+    <string name="str_about_share">推荐好友</string>
+    <string name="str_about_versin">版本号:</string>
+    <string name="str_share_content">#酷一天#,让你在Android上也可以体验简洁漂亮的扁平化风格天气！</string>
+    <string name="str_share_title">酷一天,给你带来所有的天气</string>
+    <string name="str_hint_update_no">没有更新</string>
+    <string name="str_hint_update_nowifi">没有wifi连接.</string>
+    <string name="str_hint_update_timeout">超时.</string>
+    <string name="company_name_string">Copyright © 2010-2013 上海乐畅信息技术有限公司</string>
+
+    <string name="weathertext_sunny">晴朗</string>
+    <string name="weathertext_clear">晴朗</string>
+    <string name="weathertext_misty">薄雾</string>
+    <string name="weathertext_drizzle">小雨</string>
+    <string name="weathertext_fine">晴朗</string>
+    <string name="weathertext_fair">晴朗</string>
+    <string name="weathertext_cloudy">多云</string>
+    <string name="weathertext_foggy">有雾</string>
+    <string name="weathertext_rain">有雨</string>
+    <string name="weathertext_haze">有霾</string>
+    <string name="weathertext_overcast">阴</string>
+    <string name="weathertext_mostly_cloudy">多云</string>
+    <string name="weathertext_hail">冰雹</string>
+    <string name="weathertext_snow">有雪</string>
+    <string name="weathertext_heavy_snow">大雪</string>
+    <string name="weathertext_light_snow">小雪</string>
+    <string name="weathertext_partly_cloudy">晴间多云</string>
+    <string name="weathertext_some_clouds">少云</string>
+    <string name="weathertext_mostly_clear">大部晴朗</string>
+    <string name="weathertext_partly_sunny">晴间多云</string>
+    <string name="weathertext_light_rain">小雨</string>
+
+</resources>

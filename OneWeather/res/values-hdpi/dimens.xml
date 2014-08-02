@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- list view 显示的高度 -->
+    <dimen name="list_height">280dip</dimen>
+    <dimen name="list_padding_top">70dip</dimen>
+</resources>

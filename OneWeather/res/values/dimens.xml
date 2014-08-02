@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- height of a normal list item in edit playlist mode -->
+    <dimen name="normal_height">46dip</dimen>
+    <!-- height of an expanded list item in edit playlist mode -->
+    <dimen name="expanded_height">92dip</dimen> 
+     <!-- list view 显示的高度 -->
+    <dimen name="list_height">265dip</dimen>
+    <dimen name="list_padding_top">60dip</dimen>
+    <dimen name="dimens_about_app_name_size">24.0dip</dimen>
+    <dimen name="dimens_about_version_layout_marginbottom">50.0dip</dimen>
+
+    <dimen name="weather_summary_marginBottom">6.0dip</dimen>
+    <dimen name="weather_summary_marginTop">4.0dip</dimen>
+    <dimen name="weather_summary_day_name_marginLeft">10.0dip</dimen>
+    <dimen name="weather_summary_day_name_textsize">16sp</dimen>
+    <dimen name="weather_summary_high_temperature_marginRight">10.0dip</dimen>
+    <dimen name="weather_summary_high_temperature_textsize">16sp</dimen>
+    <dimen name="weather_summary_low_temperature_marginRight">10.0dip</dimen>
+    <dimen name="weather_summary_low_temperature_textsize">16sp</dimen>
+
+
+</resources>

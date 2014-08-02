@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+
+    <string name="hello">"حالة الطقس"</string>
+    <string name="app_name">"حالة الطقس"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"عالية: "</string>
+    <string name="txt_low_tmp">"دنيا: "</string>
+    <string name="degree_label">"°"</string> 
+    <string name="refresh_at">"تحديث "</string> 
+    <string name="fail_refresh_str">"تحديث فشلت، آخر تحديث"</string> 
+     <string name="refreshing_str">"تحديث ... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"يرجى إدخال اسم المدينة، اسم المقاطعة أو الرمز البريدي:"</string>
+    <string name="verify_city">"التحقق من مدينة ..."</string>
+    <string name="no_results_found">"العثور على أي نتائج"</string>
+    <string name="network_error">"الشبكة غير متوفر"</string>
+    <string name="btn_cancel">"إلغاء"</string>
+    <!-- web action -->
+    <string name="updating_data">"تحديث ..."</string>
+    <string name="success_load_data">"تحميل البيانات بنجاح ..."</string>
+    
+    <string name="str_done">"كامل"</string>
+   
+    <string name="str_max_add_cities">"يمكنك إضافة ما يصل إلى 25 مدينة."</string>
+    <string name="msg_ok">"جيد"</string>
+    <string name="add_city_suggestion">""</string>
+    <string name="dangditianqi">"الطقس المحلية"</string>
+    <string name="local_">"بكين"</string>
+     <string name="shanghai">"شنغهاي"</string>
+    <string name="highest">"أعلى"</string>
+    <string name="lowest">"أقل"</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">"ساعة"</string>
+    <string name="Title_bar">"الطقس كل ساعة"</string>
+      <string name="delete">"الذاكرة"</string>
+    
+    <string name="today">اليوم</string>
+    <string name="humidity">رطوبة</string>
+    <string name="wind">رياح</string>
+    <string name="chanceofsnow">فرصة الثلوج</string>
+    <string name="chanceofrain">فرصة هطول أمطار</string>
+    <string name="feelslike">وكأننا</string>
+    <string name="visibility">وضوح</string>
+
+</resources>

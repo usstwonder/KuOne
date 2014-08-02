@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--        btn_default_pressed-->
+    <item android:state_pressed="true"
+        android:drawable="@drawable/button_done_press" />
+        
+<!--        btn_default_normal_disable-->
+    <item android:drawable="@drawable/button_done_unpress" />
+        
+</selector>

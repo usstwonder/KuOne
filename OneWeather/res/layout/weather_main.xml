@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:iphone="http://schemas.android.com/apk/res/com.kukool.iosapp.weather"
+             android:id="@+id/container"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical" >
+
+    <!-- 显示天气  android:background="@android:color/transparent"/ -->
+
+    <RelativeLayout
+            android:id="@+id/display_weather"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:paddingTop="0dip" >
+
+        <android.support.v4.view.ViewPager
+                android:id="@+id/switcher"
+                android:layout_above="@+id/line_above_dot_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="2dp" />
+
+        <com.kukool.iosapp.weather.ui.DotView
+                android:id="@+id/dot_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:paddingBottom="23dp" />
+
+        <View
+                android:layout_width="match_parent"
+                android:id="@id/line_above_dot_view"
+                android:layout_height="1px"
+                android:layout_marginBottom="48dp"
+                android:layout_alignParentBottom="true"
+                android:background="#80FFFFFF" />
+
+        <Button
+                android:id="@+id/button_yahoo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/button_yahoo" />
+
+        <Button
+                android:id="@+id/button_settings"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/button_settings" />
+
+    </RelativeLayout>
+
+
+</FrameLayout>

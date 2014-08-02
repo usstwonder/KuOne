@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认中文 -->
+    <string name="hello">"Weather"</string>
+    <string name="app_name">"OneWeather"</string>
+    <!-- display weather view-->
+    <string name="txt_high_temp">"The highest temperature: "</string>
+    <string name="txt_low_tmp">"Minimum temperature: "</string>
+    <string name="degree_label">°</string> 
+    <string name="refresh_at">"Updated "</string> 
+    <string name="fail_refresh_str">"Update failed, last updated"</string> 
+     <string name="refreshing_str">"Updating... "</string> 
+    <!-- add city -->
+    <string name="add_city_title">"Type the City,State or ZIP code："</string>
+    <string name="verify_city">"Validating city..."</string>
+    <string name="no_results_found">"No results found"</string>
+    <string name="network_error">"Network is unavailable"</string>
+    <string name="btn_cancel">"Cancel"</string>
+    <!-- web action -->
+    <string name="updating_data">"Being updated..."</string>
+    <string name="success_load_data">"Download data successfully..."</string>
+    
+    <string name="str_done">"Done"</string>
+   
+    <string name="str_max_add_cities">"You can add up to 25 cities。"</string>
+    <string name="msg_ok">"OK"</string>
+    <string name="add_city_suggestion">&quot;&quot;</string>
+    <string name="dangditianqi">Local weather</string>
+    <string name="local_">BeiJing</string>
+    <string name="shanghai">ShangHai</string>
+    <string name="highest">Highest</string>
+    <string name="lowest">Lowest</string>
+    <string name="h_temp">39°</string>
+    <string name="l_temp">30°</string>
+    <string name="current_">36°</string>
+    <string name="du">°</string>
+    <string name="hour">"hour"</string>
+     <string name="Title_bar">"Hourly Forecast"</string>
+     <string name="delete">"delete"</string>
+  
+    <string name="today">Today</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="chanceofsnow">Chance of snow</string>
+    <string name="chanceofrain">Chance of rain</string>
+    <string name="feelslike">Feels like</string>
+    <string name="visibility">Visibility</string>
+    <string name="now">Now</string>
+
+    <string name="str_about">About</string>
+    <string name="str_about_outweb">Website</string>
+    <string name="str_about_checkupdate">Update</string>
+    <string name="str_about_feedback">Feedback</string>
+    <string name="str_about_share">Share</string>
+    <string name="str_about_versin">Version:</string>
+    <string name="str_share_content">#OneWeather#,A wonderful weather App！</string>
+    <string name="str_share_title">OneWeather,All weather in ONE!</string>
+    <string name="str_hint_update_no">No update.</string>
+    <string name="str_hint_update_nowifi">No wifi.</string>
+    <string name="str_hint_update_timeout">Timeout.</string>
+    <string name="company_name_string">Copyright © 2010-2013 Shanghai LeChang</string>
+    <string name="company_name_string_padding">All Rights Reserved.</string>
+
+    <string name="weathertext_sunny">Sunny</string>
+    <string name="weathertext_clear">Clear</string>
+    <string name="weathertext_misty">Misty</string>
+    <string name="weathertext_drizzle">Drizzle</string>
+    <string name="weathertext_fine">Fine</string>
+    <string name="weathertext_fair">Fair</string>
+    <string name="weathertext_cloudy">Cloudy</string>
+    <string name="weathertext_foggy">Foggy</string>
+    <string name="weathertext_rain">Rain</string>
+    <string name="weathertext_haze">Haze</string>
+    <string name="weathertext_overcast">Overcast</string>
+    <string name="weathertext_mostly_cloudy">Mostly Cloudy</string>
+    <string name="weathertext_hail">Hail</string>
+    <string name="weathertext_snow">Snow</string>
+    <string name="weathertext_heavy_snow">Heavy Snow</string>
+    <string name="weathertext_light_snow">Light Snow</string>
+    <string name="weathertext_partly_cloudy">Partly Cloudy</string>
+    <string name="weathertext_some_clouds">Some Clouds</string>
+    <string name="weathertext_mostly_clear">Mostly Clear</string>
+    <string name="weathertext_partly_sunny">Partly Sunny</string>
+    <string name="weathertext_light_rain">Light Rain</string>
+
+</resources>
