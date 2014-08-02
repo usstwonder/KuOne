@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.kukool.iosapp.weather"
           android:versionCode="4"
-          android:versionName="0.4.1401090" >
+          android:versionName="0.4.1406270" >
 
     <!-- AdMob SDK permissions -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -34,7 +34,7 @@
                 android:value="no" >
         </meta-data>
 
-        <meta-data android:value="52ba9ea556240bbcc7016281" android:name="UMENG_APPKEY"/>
+        <meta-data android:value="53d8f662fd98c57a78007978" android:name="UMENG_APPKEY"/>
         <meta-data android:value="Kukool" android:name="UMENG_CHANNEL"/>
         <meta-data android:name="api_key" android:value="NuoqjYWHEyhc2C4oT8FlnX2v" />
 
